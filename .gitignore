@@ -1,1 +1,4 @@
 .venv/
+/pytorch/introduce/model_weights.pth
+/pytorch/introduce/model.pth
+/home/qk/Documents/python/python_programming/pytorch/introduce/data/
