@@ -1,3 +1,4 @@
 .venv/
 /introduce/model.pth
 introduce/data/
+learning-pytorch/I-deeplearning-with-pytorch/data
